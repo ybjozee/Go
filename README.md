@@ -12,6 +12,8 @@ For the frontend I used Svelte, while Go was used for the backend.
 
 ![Video chat demo](svelte_video.gif)
 
+![Video chat demo](https://github.com/ybjozee/Go/assets/2722128/43530b89-a703-42d0-a63b-0dafa5ea09d3)
+
 You can view the project repository [here](https://github.com/ybjozee/Twilio-Video-Demo). You can also read the accompanying tutorial [here](https://www.twilio.com/blog/use-svelte-and-go-build-video-chat-app).
 
 
