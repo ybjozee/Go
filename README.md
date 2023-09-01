@@ -10,7 +10,7 @@ For this project, I built a simple video chat application. Users are allowed to 
 
 For the frontend I used Svelte, while Go was used for the backend. 
 
-![Video chat demo](https://assets.cdn.prod.twilio.com/original_images/JUMnZyqKbPwVIjixwCYyK788lpbH2mv8k8-NsZlZUVctCaAsEku2HNDizjrAqmWQkD8NgSpWbjks_qAYqXhE)
+![Video chat demo](svelte_video.gif)
 
 You can view the project repository [here](https://github.com/ybjozee/Twilio-Video-Demo). You can also read the accompanying tutorial [here](https://www.twilio.com/blog/use-svelte-and-go-build-video-chat-app).
 
@@ -18,7 +18,7 @@ You can view the project repository [here](https://github.com/ybjozee/Twilio-Vid
 ## [Automated voice call app](https://www.twilio.com/blog/make-spooky-automated-calls-halloween-with-twilio-voice-go)
 This was a halloween prank that made it's way to Twilio. Using the voice SDK, I built a simple application to make an automated voice call to any number specified by the user. Should the user answer the call, they would be greeted with a random audio halloween message. 
 
-![Application index page](https://assets.cdn.prod.twilio.com/images/CEfF_yo09mEJF8oelC0S55yrOPB7BuZt1MWkPxn55lG.format-webp.webp)
+![Application index page](automated_voice_call.webp)
 
 You can view the project repository [here](https://github.com/ybjozee/Twilio-Voice-Demo). You can also read the accompanying tutorial [here](https://www.twilio.com/blog/make-spooky-automated-calls-halloween-with-twilio-voice-go)
 
